@@ -1,5 +1,5 @@
 # ClubNet
-Repo for the ClubNet COS333 Project.
+Repo for the ClubNet COS333 Project. A three-tiered Flask web-app that facilitates bi-directional communication between current members with alumni members in Princeton's Men's Club Soccer team.
 
 
 Ensure that you have flask:
